@@ -52,6 +52,5 @@ The analysis provides actionable insights into:
 
 * Python
 * Pandas
-* NumPy
 * Matplotlib
   
